@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-20
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "sonic idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				-20
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "sonic down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				-10
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "sonic up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				29,
+				-23
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "sonic right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				2,
+				-20
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "ok",
+			"loop": false,
+			"name": "sonic ew000"
+		},
+		{
+			"offsets": [
+				37,
+				-21
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "sonic left"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/SonicTheHedgehog",
+	"position": [
+		-110,
+		170
+	],
+	"healthicon": "duo",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		107,
+		255
+	],
+	"camera_position": [
+		-20,
+		10
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

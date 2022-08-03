@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				99,
+				-10
+			],
+			"anim": "idle",
+			"fps": 10,
+			"name": "Tails_Rush_Test_ Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				96,
+				-6
+			],
+			"anim": "singRIGHT",
+			"fps": 17,
+			"name": "Tails_Rush_Test_ Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				98,
+				-10
+			],
+			"anim": "singDOWN",
+			"fps": 17,
+			"name": "Tails_Rush_Test_ Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				121,
+				7
+			],
+			"anim": "singUP",
+			"fps": 12,
+			"name": "Tails_Rush_Test_ Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				100,
+				-9
+			],
+			"anim": "singLEFT",
+			"fps": 17,
+			"name": "Tails_Rush_Test_ Right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Tails_Rush_Test",
+	"position": [
+		-320,
+		210
+	],
+	"healthicon": "duo",
+	"flip_x": true,
+	"healthbar_colors": [
+		0,
+		107,
+		255
+	],
+	"camera_position": [
+		-90,
+		10
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
